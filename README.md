@@ -6,16 +6,16 @@ I architect, exploit, and document enterprise-grade infrastructure labs — then
 
 ---
 
-## 🧪 Main Project (WIP)
+## 🧪 Main ProjectS (WIP)
 
-**👉 Hybrid Malware Research, Deployment & Purple Team Lab**
+###**👉 Hybrid Malware Research, Deployment & Purple Team Lab**
 I am currently rebuilding my homelab on new hardware to consolidate three primary functions:
 
 * **Malware Analysis & Detonation:** Safe execution and behavioral tracking of live samples within isolated environments.
 * **Automated Deployment:** Streamlining the spin-up of victim and attacker infrastructure using custom scripts.
 * **Purple Team Operations:** Simulating enterprise attack vectors like **Kerberoasting and DCSync** to validate Splunk-based detection engineering.
 
-### 🛠️ WIP: Gentoo-Hardened (Qubes OS Alternative)
+### 🛠️ WIP: Gentoo-Based ephemeral VM set (Qubes OS Alternative)
 I am currently researching and documenting a transition from **Qubes OS** to a **Hardened Gentoo** implementation. This project focuses on:
 * Implementing **Xen virtualization** on a Gentoo base for domain isolation.
 * Utilizing **Hardened Gentoo profiles** (SSP, PIE, and Grsecurity/PaX logic) to minimize the attack surface of the analysis host.
